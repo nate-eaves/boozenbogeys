@@ -1,0 +1,59 @@
+/* line 1, default.scss */
+body {
+  font-family: Arial,Helvetica,'Trebuchet MS',Verdana,sans-serif;
+  margin: 0;
+}
+
+/* line 7, default.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 11, default.scss */
+h1 {
+  color: orange;
+  display: inline-block;
+  padding-top: 10px;
+  vertical-align: top;
+}
+
+/* line 18, default.scss */
+p {
+  margin: 0;
+}
+
+/* line 22, default.scss */
+.main_hero {
+  background: #fff url(../pict/main.jpg) no-repeat;
+  background-size: cover;
+  background-position: 100% -315px;
+  min-height: 100vh;
+}
+
+/* line 29, default.scss */
+.logo {
+  height: 100px;
+  width: auto;
+}
+
+/* line 34, default.scss */
+.tour_results {
+  padding-left: 100px;
+}
+
+/* line 37, default.scss */
+.tour_info {
+  padding: 40px 0 0 20px;
+}
+
+/* line 41, default.scss */
+.round {
+  font-weight: bold;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+/* line 47, default.scss */
+.standing {
+  font-weight: bold;
+}
