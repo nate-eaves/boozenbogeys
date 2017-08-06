@@ -43,7 +43,16 @@ p {
 
 /* line 37, default.scss */
 .tour_info {
+    display: inline-block;
   padding: 40px 0 0 20px;
+    width: 49%;
+}
+
+.tour_records {
+    display: inline-block;
+    margin-top: 150px;
+    width: 49%;
+    vertical-align: top;
 }
 
 /* line 41, default.scss */
